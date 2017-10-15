@@ -1,2 +1,2 @@
 # Advanced BASH Scripting
-Advanced Bash-Scripting Guide An in-depth exploration of the art of shell scripting Mendel Cooper.
+BASH (Bourne Again SHell) Examples for becoming a BASH scripter
